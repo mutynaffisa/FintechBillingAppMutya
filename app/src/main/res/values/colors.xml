@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background & Cards -->
+    <color name="bg_app_pastel">#FAF7F5</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="stroke_border">#F1EFEA</color>
+
+    <!-- Brand Accent Colors -->
+    <color name="pastel_indigo">#818CF8</color>
+    <color name="pastel_indigo_light">#EEF2FF</color>
+
+    <color name="pastel_mint_bg">#E6F4EA</color>
+    <color name="pastel_mint_text">#137333</color>
+
+    <color name="pastel_rose_bg">#FCE8E6</color>
+    <color name="pastel_rose_text">#C5221F</color>
+
+    <!-- Purple & Lilac Pastel (Mencegah resource not found) -->
+    <color name="pastel_purple_bg">#F3E8FF</color>
+    <color name="pastel_purple_text">#6B21A8</color>
+    <color name="pastel_lilac_bg">#F3E8FF</color>
+    <color name="pastel_lilac_text">#6B21A8</color>
+
+    <!-- Typography -->
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_muted">#94A3B8</color>
+</resources>
